@@ -21,6 +21,7 @@ The repository has two parts:
 3. Normalise: continuous indicators divided by their maximum, binary indicators kept as 0/1.
 4. Composite Liveability Index = mean of the four scores.
 5. Classify into five classes (Very Low to Very High) using Natural Breaks (Jenks).
+6. Optional planning queries: Small Areas with no healthcare and no transport access, and Small Areas with under 5% green space and over 40% building coverage.
 
 ## Repository structure
 ```
